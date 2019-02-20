@@ -1,16 +1,15 @@
 # Web Page Desing
 
 Technologies Used:
+- HTML 5
+- CSS 3
+- JavaScript
 
-HTML 5
-CSS 3
-JavaScript
-Frameworks Used:
+Frameworks Used: 
+- jQuery
+- Bootstrap
 
-jQuery
-Bootstrap
 Plugins Used:
-
-owl-carousel
-popup
-wow js
+- owl-carousel
+- popup
+- wow js
